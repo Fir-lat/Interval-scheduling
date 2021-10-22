@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\courses\算法设计与分析\current\homework\week3p1\main.cpp(51,16): warning C4244: “初始化”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\courses\算法设计与分析\current\homework\week3p1\main.cpp(141,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\courses\算法设计与分析\current\homework\week3p1\main.cpp(156,20): warning C4018: “<”: 有符号/无符号不匹配
+  week3p1.vcxproj -> D:\courses\算法设计与分析\current\homework\week3p1\Debug\week3p1.exe
